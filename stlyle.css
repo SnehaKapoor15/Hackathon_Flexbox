@@ -1,0 +1,220 @@
+body{
+    background-color:rgb(219, 16, 91);
+    padding: 40px 20px 40px 20px;
+}
+.container{
+    background-color: white;
+   
+}
+.logo{
+    height: 40px;;
+}
+.header{
+    padding-left: 46px;
+    background-color: white;
+}
+.searchbar{
+    margin-left:150px ;
+    
+    padding-right: 300px;
+    border-radius: 25px;
+}
+.icon{
+    height:20px;
+    width:20px;
+    border-radius: 70%;
+    background-color: rgb(219, 16, 91);
+    color: aliceblue;
+    margin: 50px 20px 50px 20px ;
+}
+.photo{
+    height:30px;
+    width:30px;
+    border-radius: 100px;;
+    padding-left: 90px;
+}
+.section-1{
+    flex-direction: column;
+}
+.sidebar-navigation{
+/* background-color: black;
+display:flex;
+flex-direction:column;
+color: aliceblue;
+height:1000px;
+width: 200px; */
+
+height: 100%;
+  width: 10%;
+  float:left;
+  position: fixed;
+  flex-direction: column;
+  display: flex;
+  /* z-index: 1; */
+  top: 50px;
+  left: 3px;
+  color: aliceblue;
+  text-decoration: none;
+  background-color: #111;
+  padding: 20px 20px 20px 20px;
+  margin-left:25px; 
+   margin-top: 125px;
+}
+/* a{
+    color: aliceblue;
+}
+a:hover{
+    background-color:  rgb(219, 16, 91);
+} */
+.hotel{
+    background-color:  rgb(219, 16, 91);
+}
+.footer{
+    margin-top: 650px;
+    display:flex;
+    height:50px;
+    width: 75%;
+}
+.images-hotel{
+    height:290px;
+    width:370px;
+    float: left;
+
+    
+}
+
+/* .section-2-images{
+    width:90%;
+    float:right;
+    
+    
+} */
+.section-3-heading{
+    background-color: rgb(248, 244, 244)
+    width:90%;
+    float:right;
+   
+    
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* flex-wrap: wrap; */
+}
+.section-3{
+    background-color: white;
+    width:1037px;
+   float:right;
+    
+}
+.link{
+    align-items: baseline;
+}
+.location{
+color: rgb(219, 16, 91);
+justify-content: end;
+
+}
+.underline{
+    color:  rgb(219, 16, 91);
+    justify-content: space-between;
+}
+.ratings{
+    background-color:  rgb(219, 16, 91);
+    float: right;
+}
+ /* .section-1{
+    display: flex;
+    padding-left: 20px; */
+    /* justify-content: stretch; */
+ /* } */
+ 
+ .section-4{
+    background-color: grey;
+ }
+.table{
+    background-color: aliceblue;
+}
+.column{
+    /* border:5px solid white;
+    margin-top: 0%;
+    background-color: aliceblue;
+    float:left;
+    width:25%;
+    margin: 20px; */
+    float:left;
+    padding:10%
+    width:25%;
+    background-color: white;
+}
+.column1{
+    float: right;
+   
+
+}
+.column2{
+    background-color: aliceblue;
+   
+
+}
+.friends{
+    float: left;
+}
+
+.row{
+    background-color: rgb(241, 239, 239);
+    display:table;
+    float: right;
+}
+.users-1{
+    border-radius: 60%;
+    right:10px;
+    left: 129px;
+    position: relative;
+    width: 60px;;
+}
+.users-2{
+    border-radius: 60%;
+    position: absolute;
+    left: 939px;
+    right: 20px;
+    width: 60px;
+
+}
+.users-3{
+    border-radius: 60%;
+    width: 60px;
+    position: absolute;
+    right: 217px;
+
+}
+
+.users-4{
+    border-radius: 60%;
+    position: absolute;
+    right: 300px;
+    width: 60px;
+
+}
+.column-3{
+   
+        /* border:5px solid white;
+        margin-top: 0%;
+        background-color: aliceblue;
+        float:right;
+        width:95%;
+        margin: 20px;
+     */
+     float:right;
+     background-color: aliceblue;
+     width: 30%;
+     
+}
+.date{
+    color:grey
+}
+h3{
+    color:  rgb(219, 16, 91);
+}
+.user-6{
+    border-radius: 60px;
+    width: 70px;
+}
