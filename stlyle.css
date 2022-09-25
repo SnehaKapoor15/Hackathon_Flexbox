@@ -218,3 +218,15 @@ h3{
     border-radius: 60px;
     width: 70px;
 }
+.booking{
+    border-radius: 2px;
+    /* background-color:  rgb(219, 16, 91); */
+    color: aliceblue;
+}
+.section-last{
+    background-color: aliceblue;
+    width:30px;
+}
+.end{
+    color:  rgb(219, 16, 91)
+}
